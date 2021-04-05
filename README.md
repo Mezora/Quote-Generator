@@ -1,4 +1,4 @@
-# MEZORA - BOOKMARKS APP 📕
+# MEZORA - QUOTE GENERATOR APP 💌
 _A simple Bookmarks App that makes you feel good!_
 
 ## Proyect Hosting 🌐
